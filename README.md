@@ -23,7 +23,7 @@ _Functions:_
 - Adding records to History of calculation and adding __NEW__ functionality to "SET AS ACCEPTED" & "Printed"
 - Filaments - dynamicly updated filament list possible to choose.
 
-### ***CMMS for Maintenance Teams ***
+### ***CMMS for Maintenance Teams***
 - Manage Parts Warehouse
 - History of pickup parts to service
 - Creating reports of usage, faults, and many more.
