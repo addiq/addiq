@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrian!
-- 👀 I’m interested in 3D printing, programming in VB.NET, process automatization, networks and technology!
+- 👀 I’m interested in 3D printing, programming in VB.NET/C#, process automatization, networks and technology!
 - 🌱 I’m currently learning VB.NET/C# and 
 - 💞️ I’m looking to collaborate on VB.NET projects
 - 📫 If you are looking for a someone to your team, please send me contact via mail: AddiQ17 (at) gmail.com
